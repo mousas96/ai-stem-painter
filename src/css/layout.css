@@ -223,7 +223,7 @@ body .sp-preview{
 	overflow-x: auto;
 	overflow-y: hidden;
 	white-space: nowrap;
-	min-height: 30px;
+	min-height: 50px;
 }
 .attributes .item{
 	display: inline-flex;
